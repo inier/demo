@@ -5,6 +5,8 @@
     "start": "webpack --config webpack.config.js"
   },
   "devDependencies": {
-    "webpack": "^1.13.2"
+    "webpack": "^4.10.2",
+    "webpack-cli": "^3.0.2",
+    "webpack-command": "^0.2.0"
   }
 }
